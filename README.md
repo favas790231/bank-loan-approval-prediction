@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on predicting whether a bank loan application will be approved or rejected using machine learning classification algorithms.
+This project focuses on predicting whether a bank loan application will be approved or rejected using machine learning classification algorithms
 
 It includes exploratory data analysis (EDA), data preprocessing, model training, and performance comparison to understand how different classification algorithms perform on the dataset.
 
